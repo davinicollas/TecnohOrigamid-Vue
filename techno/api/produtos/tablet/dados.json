@@ -1,0 +1,20 @@
+{
+  "id": "tablet",
+  "nome": "Tablet",
+  "preco": 899,
+  "descricao": "When an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "estoque": 12,
+  "img": "./api/produtos/tablet/tablet-foto.jpg",
+  "avaliacao": [
+    {
+      "nome": "fabio",
+      "estrela": 5,
+      "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "nome": "natalia",
+      "estrela": 4,
+      "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+  ]
+}

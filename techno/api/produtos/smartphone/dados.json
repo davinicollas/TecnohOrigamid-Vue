@@ -1,0 +1,20 @@
+{
+  "id": "smartphone",
+  "nome": "Smartphone",
+  "preco": 1299,
+  "descricao": " Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+  "estoque": 12,
+  "img": "./api/produtos/smartphone/smartphone-foto.jpg",
+  "avaliacao": [
+    {
+      "nome": "fabio",
+      "estrela": 5,
+      "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "nome": "natalia",
+      "estrela": 4,
+      "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+  ]
+}
